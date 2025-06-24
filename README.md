@@ -27,6 +27,10 @@ Proyek ini bertujuan untuk mengoptimasi konsumsi daya listrik rumah tangga mengg
   - matplotlib
   - seaborn
 
+## Dataset 
+```
+https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set
+```
 
 ## 📂 Struktur Proyek
 ```
