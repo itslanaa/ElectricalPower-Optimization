@@ -1,4 +1,4 @@
-## Live Deployment (Streamlit) : https://electricalpower-optimization.streamlit.app/
+## Live Deployment Demo (Streamlit) : https://electricalpower-optimization.streamlit.app/
 
 # ⚡ ElectricalPower Optimization
 
