@@ -1,5 +1,3 @@
-## Live Deployment Demo (Streamlit) : https://electricalpower-optimization.streamlit.app/
-
 # ⚡ ElectricalPower Optimization
 
 Proyek ini bertujuan untuk mengoptimasi konsumsi daya listrik rumah tangga menggunakan **algoritma Greedy**. Pengguna dapat mengunggah dataset konsumsi listrik, melakukan simulasi optimasi, melihat visualisasi pola konsumsi, dan mengekspor hasil analisis ke dalam format CSV dan PDF melalui antarmuka.
